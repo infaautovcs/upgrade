@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "aziNWqlA4mwbPQnY0umki5",
+    "id" : "5czilFdvoiLlvxZWFTU4eN",
     "name" : "forceUndoCheckout_admin_DSS",
     "type" : "DSS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0I0000000004X7"
+        "repoHandle" : "010OFW0I0000000004XA"
       },
       "contextAttributes" : [ {
         "name" : "id",
