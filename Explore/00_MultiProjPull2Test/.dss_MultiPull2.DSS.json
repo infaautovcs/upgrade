@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2lhnWNLlbmBcHT9yPcKRei",
+    "id" : "g3OmqFflOIDbb8BIAfnrsx",
     "name" : "dss_MultiPull2",
     "type" : "DSS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0I0000000004ZX"
+        "repoHandle" : "010OFW0I000000000501"
       },
       "contextAttributes" : [ {
         "name" : "id",
