@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8X6bMC1UhW1eiyze9FBhix",
+    "id" : "epSJituQ58ThL17io32K8P",
     "name" : "forceUndoCheckout_nonadmin_DRS",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0G0000000006G9"
+        "repoHandle" : "010OFW0G0000000006GF"
       },
       "contextAttributes" : [ {
         "name" : "id",
