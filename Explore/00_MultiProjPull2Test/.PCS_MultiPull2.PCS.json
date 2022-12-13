@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "duyD5pRHIo3fxL51cT1zq6",
+    "id" : "66LoMTMAG2Pb345nggBEmw",
     "name" : "PCS_MultiPull2",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0K00000000037Q"
+        "repoHandle" : "010OFW0K00000000037S"
       },
       "contextAttributes" : [ {
         "name" : "id",
