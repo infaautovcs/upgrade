@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4MxHeVUVXCIlB9xojUd4gM",
+    "name" : "TestVCSPullNew",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "New VCS pull",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
