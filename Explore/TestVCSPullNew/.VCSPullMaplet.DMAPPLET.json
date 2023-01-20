@@ -18,30 +18,10 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "objectRefs" : [ {
-    "id" : "8CscJYf1s9whbKd6qVkkQp",
-    "name" : "FF_PodCertification",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010OFW0B00000000000G"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection for Pod Certification Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  } ]
+  "objectRefs" : [ ]
 }
