@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "cVDtY5Gd80SkH26PRbBkqn",
+    "name" : "MappingTaskFolder_vkr",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "MappingTaskFolder_vkr",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
