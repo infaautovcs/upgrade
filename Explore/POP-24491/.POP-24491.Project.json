@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "8kP2CTg8WXiiTlhfoAkvKA",
+    "name" : "POP-24491",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Test POP-24491 ( Edited description )",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
