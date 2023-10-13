@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "9iGY5zdFXrJc1NEvnRB2cf",
+    "name" : "02_Mapping",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OFW1700000000458X"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-10-13T16:19:08.760Z",
+  "objectRefs" : [ ]
+}
