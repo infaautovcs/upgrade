@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "2jdNZQgZVMJh9PfOSnC30O",
+    "name" : "vcstestsidharth",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OFW170000000045WK"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-12-19T20:06:59.263Z",
+  "objectRefs" : [ ]
+}
