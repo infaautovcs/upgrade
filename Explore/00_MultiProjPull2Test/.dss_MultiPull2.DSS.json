@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4BoLCXusCQNjygZFwDI4Yb",
+    "id" : "9WGfXnHCp4LgiddbPcaH2p",
     "name" : "dss_MultiPull2",
     "type" : "DSS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0I0000000005FC"
+        "repoHandle" : "010OFW0I0000000005FM"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-12-21T03:27:20.637Z",
+  "updateTime" : "2023-12-22T03:29:50.922Z",
   "objectRefs" : [ {
     "id" : "hHHM8LdF626b11nAlaIxWc",
     "name" : "ff_swati",
