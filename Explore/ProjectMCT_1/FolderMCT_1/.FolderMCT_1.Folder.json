@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "16BZZkkvv90bmyqCE8RsOP",
+    "name" : "FolderMCT_1",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-01-18T16:57:29.816Z",
+  "objectRefs" : [ ]
+}
