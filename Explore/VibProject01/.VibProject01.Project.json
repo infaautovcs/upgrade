@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "4V6A5Im9UmXeVZHa1yGoKu",
+    "name" : "VibProject01",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-03-04T14:51:45.799Z",
+  "objectRefs" : [ ]
+}
